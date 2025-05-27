@@ -60,4 +60,4 @@ https://app.powerbi.com/links/ULREzWlgMn?ctid=79a3fac8-adad-4f54-b6c6-5896bad3d1
 
 ##   Conclusion
 
-   This Housing Market Analysis project demonstrates my ability to independently manage a complex data analysis workflow, from data extraction and processing to insightful visualization and strategic recommendations. I am confident that my skills in data analysis, DAX, and Power BI, combined with my ability to derive actionable insights, would make me a valuable asset to your team. I am eager to discuss how my contributions can drive data-driven decision-making in your organization.
+   This Housing Market Analysis project demonstrates my ability to independently manage a complex data analysis workflow, from data extraction and processing to insightful visualization and strategic recommendations.
